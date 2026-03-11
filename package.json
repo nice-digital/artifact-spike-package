@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/nice-digital/artifact-spike-package/issues"
   },
-  "homepage": "https://github.com/nice-digital/artifact-spike-package#readme"
+  "homepage": "https://github.com/nice-digital/artifact-spike-package#readme",
+  "volta": {
+    "node": "22.19.0"
+  }
 }
