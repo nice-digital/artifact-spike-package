@@ -1,0 +1,23 @@
+{
+  "name": "@nice-digital/artifact-spike-package",
+  "version": "0.0.1",
+  "description": "Minimal internal text package for registry spike work",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "node src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nice-digital/artifact-spike-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nice-digital/artifact-spike-package/issues"
+  },
+  "homepage": "https://github.com/nice-digital/artifact-spike-package#readme"
+}
