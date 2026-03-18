@@ -22,5 +22,11 @@
   "homepage": "https://github.com/nice-digital/artifact-spike-package#readme",
   "volta": {
     "node": "22.19.0"
+  },
+  "devDependencies": {
+    "eslint": "^10.0.3"
+  },
+  "dependencies": {
+    "@nice-digital/nds-core": "^4.0.12"
   }
 }
