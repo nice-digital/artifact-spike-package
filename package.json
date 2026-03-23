@@ -1,6 +1,6 @@
 {
   "name": "@nice-digital/artifact-spike-package",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Minimal internal text package for registry spike work",
   "main": "src/index.js",
   "files": [
